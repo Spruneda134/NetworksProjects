@@ -21,7 +21,7 @@ npm start
 http://localhost:3000
 
 ### Acknowledgments
-Special thanks to my Dr. Enriquez in my Networks course and Dr. Tomtai in my Web Development course for inspiring this project and providing the foundational knowledge.
+Special thanks to my professors, Dr. Enriquez in my Networks course and Dr. Tomtai in my Web Development course, for inspiring this project and providing the foundational knowledge.
 
 
 
