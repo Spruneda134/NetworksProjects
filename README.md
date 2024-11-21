@@ -3,10 +3,8 @@ This project revolves around a Chat Room application hosted on a virtual machine
 
 ### Before running this project, ensure you have the following installed:
 
-Node.js
-VirtualBox
+Node.js,
 Git
-A text editor
 
 ### Clone this repository:
 git clone https://github.com/Spruneda134/NetworksProjects.git
